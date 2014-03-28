@@ -1,5 +1,5 @@
 
-//function to convert the lengths  
+//function to convert inches to cm and cm to inches  
 	function LengthFunction(){
 	
 		var Inch = document.getElementById("Inch").value;
