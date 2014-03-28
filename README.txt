@@ -6,4 +6,4 @@ http://www.getskeleton.com/
 My something cool in this is to swap out the standard nav menu for a drop down box once the screen is smaller than 950px
 it is deployed and running at http://ariatest.apphb.com/
 appharbor has been slow to show the changes i was making so if you could please allow a few hours after the test for some of the chages to be fully pushed live that
-would be great.
+would be great
