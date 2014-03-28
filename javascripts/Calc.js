@@ -1,9 +1,9 @@
 
 //function to convert the lengths  
-	function LengthFunction(Inch){
+	function LengthFunction(){
 	
 		var Inch = document.getElementById("Inch").value;
-			if (inch > -1){
+			if (Inch > -1){
 				var ResultIN = Inch*2.54;
 				document.getElementById("Inch").value=ResultIN;
 			}
